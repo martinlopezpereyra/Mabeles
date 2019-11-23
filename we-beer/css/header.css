@@ -1,0 +1,41 @@
+/*Primera NAV*/
+
+nav ul{
+margin-top: 1%;
+}
+#enLinea{
+  width: 35%;
+}
+nav ul li {
+  list-style: none;
+  display: inline;
+}
+
+.bg-light-primera-nav{
+background-color: black;
+}
+
+/*.navbar-light {
+  color: white;
+  font-size: 100%;
+}
+
+a{
+  font-family:'Copse', sans-serif;
+}*/
+
+form .btn{
+  color: white;
+  border-color:white;
+}
+/*Segunda NAV*/
+.bg-light{
+  background-color: white;
+}
+.navbar-nav .nav-link.active{
+  font-family: font-family:'Copse', sans-serif;
+}
+img{
+  width: 9%; height: 9%;
+%;
+}
